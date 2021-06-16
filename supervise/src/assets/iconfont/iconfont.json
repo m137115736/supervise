@@ -1,0 +1,58 @@
+{
+  "id": "2603574",
+  "name": "甘润电网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1410047",
+      "name": "提交",
+      "font_class": "tijiao",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1610227",
+      "name": "撤回",
+      "font_class": "chehui",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6832129",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "9461783",
+      "name": "新增",
+      "font_class": "xinzeng",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "10947194",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "13212651",
+      "name": "保存 线性",
+      "font_class": "166991",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "20438297",
+      "name": "报告",
+      "font_class": "baogao",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    }
+  ]
+}
